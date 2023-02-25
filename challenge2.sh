@@ -5,6 +5,7 @@ echo Kindly enter the username and passord below
 read -p 'username :' username
 read -sp 'password :' password
 
+
 echo Your username is $username and password is $password
 echo Your bash version is $BASH_VERSION 
 echo Your bash shell is `which bash`

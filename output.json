@@ -1,0 +1,35 @@
+{
+    "request_id": "9cfb787f-a112-eea5-5b58-f9d1053b4d74",
+    "lease_id": "",
+    "renewable": false,
+    "lease_duration": 0,
+    "data": {},
+    "wrap_info": null,
+    "warnings": [
+        "no LDAP groups found in groupDN ''; only policies from locally-defined groups available"
+    ],
+    "auth": {
+        "client_token": "s.GEonPfatLItqFTi57BoBzpzj",
+        "accessor": "eBF9LB6QTl5dksgllsfY02TQ",
+        "policies": [
+            "default",
+            "test-root",
+            "testroot1"
+        ],
+        "token_policies": [
+            "default"
+        ],
+        "identity_policies": [
+            "test-root",
+            "testroot1"
+        ],
+        "metadata": {
+            "username": "agopak"
+        },
+        "lease_duration": 2764800,
+        "renewable": true,
+        "entity_id": "1fd44274-7610-9a9b-0fb9-aa8aa08c6da7",
+        "token_type": "service",
+        "orphan": true
+    }
+}
